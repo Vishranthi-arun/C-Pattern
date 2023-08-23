@@ -47,7 +47,8 @@ namespace PascalTriangleDemo
 }
 ```
 ## Output:
-![c1](https://user-images.githubusercontent.com/94677128/226790974-2280b4e3-5bb8-424e-8ac2-06fff3dbd8ba.jpg)
+![image](https://github.com/Vishranthi-arun/C-Pattern/assets/93427278/5b4299af-d738-429b-b604-f61d5a73a391)
+
 
 ## Result:
 A C# program for a pascal's triangle is executed successfully.
